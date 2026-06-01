@@ -1,2 +1,2 @@
-THIS IS MY GIT REPO 
-ye feature 1 bramch h
+This is my git repo 
+This is feature 1 branch
